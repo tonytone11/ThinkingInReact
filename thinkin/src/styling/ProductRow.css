@@ -1,0 +1,9 @@
+td {
+    padding: 8px;
+  }
+  
+  .out-of-stock {
+    color: red;
+    font-weight: bold;
+  }
+  
